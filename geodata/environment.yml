@@ -1,0 +1,14 @@
+name: cassini
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - oauthlib
+  - requests-oauthlib
+  - numpy
+  - rasterio
+  - matplotlib
+  - seaborn
+  - pandas
+  - geopandas
+  - sentinelhub
